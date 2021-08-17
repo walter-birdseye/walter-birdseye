@@ -1,5 +1,5 @@
 - 👋 Walter
-- 🌱 Spring Boot
+- 🌱 Java Developer
 - 💞️ Alisa & BFS
 - 📫 walter@birdseye.ca
 
